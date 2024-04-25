@@ -1,0 +1,16 @@
+{
+  "name": "2-dars",
+  "version": "1.0.0",
+  "description": "madullarni organish",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "2-dars"
+  ],
+  "author": "Amirbek",
+  "license": "ISC"
+}

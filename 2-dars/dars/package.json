@@ -1,0 +1,15 @@
+{
+  "name": "amaliyot",
+  "version": "1.0.0",
+  "description": "Modullarni yaxshiroq tushunish",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "amaliyot"
+  ],
+  "author": "Amirbek",
+  "license": "ISC"
+}
