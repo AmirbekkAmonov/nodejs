@@ -1,0 +1,15 @@
+{
+  "name": "2-oy",
+  "version": "1.0.0",
+  "description": "fs organish",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "a"
+  ],
+  "author": "Amirbek",
+  "license": "ISC"
+}
