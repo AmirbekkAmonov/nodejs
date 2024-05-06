@@ -1,14 +1,13 @@
 import express from "express";
-import bodyParser from "body-parser";
+import dotenv from 'dotenv'
 import usersRouter from "./routes/users.router.js";
 
-
 const app = express();
+dotenv.config()
+app.use(express.json())
 
-app.use(bodyParser.json());
-
-app.use('/users', usersRouter);
-const PORT = process.env.port;
-app.listen(PORT, () => {
-    console.log(`Server is running on port ${PORT}`);
+app.use('/users', usersRouter.router);
+const port = process.env.PORT || 5554;
+app.listen(port, () => {
+    console.log(`Server is running on port ${port}`);
 });
