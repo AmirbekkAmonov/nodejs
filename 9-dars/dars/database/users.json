@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "username": "ali",
+        "password": "12345",
+        "fullName": "Alibek Aliyev",
+        "age": 33,
+        "email": "ali@gmail.com",
+        "gender": "male"
+    },
+    {
+        "username": "mrx",
+        "password": "123456",
+        "fullName": "X X",
+        "age": 33,
+        "email": "test@test.com",
+        "gender": "male",
+        "id": 2
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "tittle": "Javascriptga kitish.",
+        "slug": "javascriptga-kitish",
+        "content": "salom dunyo",
+        "tags": [
+            "ts",
+            "js",
+            "sql"
+        ]
+    },
+    {
+        "tittle": "Javascriptga kitish 2.",
+        "content": "salom dunyo",
+        "tags": [
+            "ts",
+            "js",
+            "sql"
+        ],
+        "id": 2
+    },
+    {
+        "tittle": "Javascriptga kitish 2.",
+        "content": "salom dunyo",
+        "tags": [
+            "ts",
+            "js",
+            "sql"
+        ],
+        "id": 3
+    }
+]
